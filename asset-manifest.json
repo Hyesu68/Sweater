@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hyesu68/Sweater/static/css/main.2cb6c84c.css",
+    "main.js": "/Hyesu68/Sweater/static/js/main.20a41e3c.js",
+    "static/js/787.8cb7c60e.chunk.js": "/Hyesu68/Sweater/static/js/787.8cb7c60e.chunk.js",
+    "index.html": "/Hyesu68/Sweater/index.html",
+    "main.2cb6c84c.css.map": "/Hyesu68/Sweater/static/css/main.2cb6c84c.css.map",
+    "main.20a41e3c.js.map": "/Hyesu68/Sweater/static/js/main.20a41e3c.js.map",
+    "787.8cb7c60e.chunk.js.map": "/Hyesu68/Sweater/static/js/787.8cb7c60e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb6c84c.css",
+    "static/js/main.20a41e3c.js"
+  ]
+}
